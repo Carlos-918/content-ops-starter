@@ -283,7 +283,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/pexels-alinatolle-11743233_dinner_table.jpg
   - type: GenericSection
     title:
       text: Generic section with a video
